@@ -1,7 +1,7 @@
 # RedNoteGenius - Your All-in-One RedNote Content Repurposing Solution
 
 <p align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="RedNoteGenius Logo" width="300"/>
+  <img src="logo.png" alt="RedNoteGenius Logo" width="300"/>
 </p>
 
 Welcome to the official GitHub organization for RedNoteGenius! We're dedicated to providing content creators with an effortless and effective way to expand their reach and engagement by repurposing their existing TikTok videos on RedNote (Xiaohongshu).
